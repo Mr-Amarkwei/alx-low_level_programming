@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /*
-*  main - the main block
+* main - the main block
 * Description: begins the execution
 * Return: Always 0
 */
