@@ -3,7 +3,7 @@
 
 /**
 * main - the main block
-* Description: begins the execution of the whole program, this is the first function to be executed
+* Description: begins the execution of the whole program
 * Return: Always 0
 */
 
