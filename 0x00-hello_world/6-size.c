@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *  main - is the main function 
- *  Description: where the program actually starts
- *  Return: 0 
- */
+* main - is the main function 
+* Description: where the program actually starts
+* Return: 0 
+*/
 int main(void)
 {
 printf("Size of a char: %d byte(s)\n", sizeof(char));
