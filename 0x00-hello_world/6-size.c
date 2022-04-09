@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/**
+ *  main - is the main function where the program actually starts
+**/
 int main(void)
 {
 		printf("Size of a char: %d byte(s)\n", sizeof(char));
