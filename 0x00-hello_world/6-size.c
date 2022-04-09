@@ -2,6 +2,7 @@
 
 /**
  *  main - is the main function where the program actually starts
+ *  Return: Always 0 
 **/
 int main(void)
 {

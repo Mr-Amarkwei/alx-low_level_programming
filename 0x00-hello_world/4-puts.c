@@ -2,6 +2,7 @@
 
 /**
  *  main - is the point where the code starts execution
+ *  Return: Always 0
  **/         
 int main(void)
 {

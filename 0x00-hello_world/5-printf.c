@@ -2,6 +2,7 @@
 
 /**
  *  main - prints the phrase with proper grammar
+ *  Return: Always 0
 **/
 int main(void)
 {
