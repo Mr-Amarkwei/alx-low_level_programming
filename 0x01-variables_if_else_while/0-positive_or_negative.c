@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - this is the main fuction, the enty point.
- * Description - it executes and prints all other function.
+/**
+ * main - this is the main fuction, the enty point
+ * Description: it executes and prints all other function
  * Return: 0
  */
 int main(void)
