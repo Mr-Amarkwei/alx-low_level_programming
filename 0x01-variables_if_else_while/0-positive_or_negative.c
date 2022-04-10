@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /*
- * main - this is the main fuction, the enty point for the program
- * Description : it executes, and prints it all other functions that are called.
+ * main - this is the main fuction, the enty point.
+ * Description - it executes and prints all other function.
  * Return: 0
  */
 int main(void)
