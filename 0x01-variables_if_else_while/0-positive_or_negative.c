@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /*
- * main - assigns a random number to int n everytime
- * Description : it executes, and prints it
+ * main - this is the main fuction, the enty point for the program
+ * Description : it executes, and prints it all other functions that are called.
  * Return: 0
  */
 int main(void)
